@@ -1,0 +1,13 @@
+C:\Users\ErAv0901\source\repos\ProgProv2-ABONEMANG\ProgProv2-ABONEMANG\bin\Debug\ProgProv2-ABONEMANG.exe.config
+C:\Users\ErAv0901\source\repos\ProgProv2-ABONEMANG\ProgProv2-ABONEMANG\bin\Debug\ProgProv2-ABONEMANG.exe
+C:\Users\ErAv0901\source\repos\ProgProv2-ABONEMANG\ProgProv2-ABONEMANG\bin\Debug\ProgProv2-ABONEMANG.pdb
+C:\Users\ErAv0901\source\repos\ProgProv2-ABONEMANG\ProgProv2-ABONEMANG\obj\Debug\ProgProv2-ABONEMANG.csprojAssemblyReference.cache
+C:\Users\ErAv0901\source\repos\ProgProv2-ABONEMANG\ProgProv2-ABONEMANG\obj\Debug\ProgProv2-ABONEMANG.csproj.CoreCompileInputs.cache
+C:\Users\ErAv0901\source\repos\ProgProv2-ABONEMANG\ProgProv2-ABONEMANG\obj\Debug\ProgProv2-ABONEMANG.exe
+C:\Users\ErAv0901\source\repos\ProgProv2-ABONEMANG\ProgProv2-ABONEMANG\obj\Debug\ProgProv2-ABONEMANG.pdb
+C:\Users\HeyZReD\Desktop\ProgProv2-ABONEMANG\ProgProv2-ABONEMANG\bin\Debug\ProgProv2-ABONEMANG.exe.config
+C:\Users\HeyZReD\Desktop\ProgProv2-ABONEMANG\ProgProv2-ABONEMANG\bin\Debug\ProgProv2-ABONEMANG.exe
+C:\Users\HeyZReD\Desktop\ProgProv2-ABONEMANG\ProgProv2-ABONEMANG\bin\Debug\ProgProv2-ABONEMANG.pdb
+C:\Users\HeyZReD\Desktop\ProgProv2-ABONEMANG\ProgProv2-ABONEMANG\obj\Debug\ProgProv2-ABONEMANG.csproj.CoreCompileInputs.cache
+C:\Users\HeyZReD\Desktop\ProgProv2-ABONEMANG\ProgProv2-ABONEMANG\obj\Debug\ProgProv2-ABONEMANG.exe
+C:\Users\HeyZReD\Desktop\ProgProv2-ABONEMANG\ProgProv2-ABONEMANG\obj\Debug\ProgProv2-ABONEMANG.pdb
